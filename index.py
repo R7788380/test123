@@ -1,3 +1,3 @@
 import numpy
-
-print('test')
+# 123
+print('123')
